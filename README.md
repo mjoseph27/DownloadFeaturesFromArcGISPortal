@@ -4,6 +4,8 @@ A simple geoprocessing tool to download features as geodatabase feature class or
 
 In this tool, the python script sends multiple query requests in threads based on ObjectIds of the feature service and downloads all the features irrespective of Maximum Record Count specified by the service.
 
+Getting Started:
+
 Download the files and open ExternalFS geoprocessing toolbox in ArcMap.
 Open GetFeatures toolbox
 
